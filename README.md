@@ -15,4 +15,22 @@ The Store wants to create an annual sales report for 2022. So, they can understa
 
 - Dashboard Interaction <a href="https://github.com/Jayakumar-S-JK/Sales_Analysis_in_Excel/blob/main/Sales%20Dashboard.png"
 
-- ## Process
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Make sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables for the requirements.
+- Merge all pivot tables into one dashboard and apply slicer to make a dynamic Dashboard.
+
+## Dashboard
+<img width="2303" height="919" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/f4937e9e-f241-4bd4-a111-0dd785e8fa7d" />
+
+## Project Insight
+- The states of Maharashtra, Karnataka and Uttar Pradesh h the top 3 product buyers.
+- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+- Women customers are buying more products compared to men (~65%).
+- More than 90% of the products delivered
+
+## Final Conclusion:
+To improve the sales of Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+
