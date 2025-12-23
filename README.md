@@ -13,4 +13,6 @@ The Store wants to create an annual sales report for 2022. So, they can understa
 - Relation between age and gender based on number of orders.
 - Percentage of Total Orders Status.
 
-- Dashboard Interaction <a href="
+- Dashboard Interaction <a href="[Dashboard]([url](https://github.com/Jayakumar-S-JK/Sales_Analysis_in_Excel/blob/main/Sales%20Dashboard.png))"
+
+- ## Process
